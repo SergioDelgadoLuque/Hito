@@ -1,0 +1,70 @@
+body {
+    padding-top: 56px;
+    background-color: white;
+}
+
+#footer {
+    background-color: #073090;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    #footer {
+        padding: 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    body {
+        padding-top: 0;
+    }
+
+    .img-fluid {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+.navbar-custom {
+    background-color: #073090;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.color {
+    color: black;
+}
+
+.lead {
+    font-size: 1.2rem;
+}
+
+#h2chustero {
+    font-size: 2rem;
+    margin-top: 50px;
+}
+
+#h3chustero {
+    font-size: 2rem;
+    margin-top: 50px;
+}
+
+#masgrande {
+    font-size: 1.25em;
+}
+
+.foto {
+    margin-top: 5px;
+    margin-left: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+#publi {
+    width: 70%;
+    height: auto;
+}
